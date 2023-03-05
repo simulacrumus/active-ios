@@ -56,29 +56,3 @@ Emrah Kinay - [@emrahkinay](https://www.linkedin.com/in/emrahkinay/)
 Project Link: [https://github.com/simulacrumus/active-ios](https://github.com/simulacrumus/active-ios)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Screenshots
-
-<div align="left">
-  <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_01.png?token=GHSAT0AAAAAAB56DA5RLK4YUHU32CDTQZFSZAFARDA" alt="App Screenshot 1">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_02.png?token=GHSAT0AAAAAAB56DA5QODDLNCPH44XQGNXSZAFAUCQ" alt="App Screenshot 2">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_03.png?token=GHSAT0AAAAAAB56DA5RXEZOMEJLDRYFYOBYZAFAU2A" alt="App Screenshot 3">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_04.png?token=GHSAT0AAAAAAB56DA5RP36D2BCXT4H6DLNWZAFAVPA" alt="App Screenshot 4">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_05.png?token=GHSAT0AAAAAAB56DA5RVN654WYUR2U7BCAYZAFAX6A" alt="App Screenshot 5">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_06.png?token=GHSAT0AAAAAAB56DA5QOWXAEXT2U3LRBJZCZAFAYHQ" alt="App Screenshot 6">
-  </a>
-    <a href="https://apps.apple.com/ca/app/active/id6445869038">
-    <img src="https://raw.githubusercontent.com/simulacrumus/active-ios/master/Active_SS_07.png?token=GHSAT0AAAAAAB56DA5RMJOZ5U7SNRG6K4JOZAFAYQQ" alt="App Screenshot 7">
-  </a>
-</div>
