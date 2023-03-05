@@ -31,9 +31,6 @@ Download the app on [AppStore](https://apps.apple.com/ca/app/active/id6445869038
 
 Please follow the instructions below to get started with Active.
 
-### Prerequisites
-* Docker `20.10.20` or newer version
-
 ### Installation
 * Clone the repo
     ```sh
