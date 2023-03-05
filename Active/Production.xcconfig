@@ -1,0 +1,15 @@
+//
+//  Productionn.xcconfig
+//  Active
+//
+//  Created by Emrah on 2023-02-24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_SCHEME = http
+API_HOST = <IP_ADDRESS>
+API_PORT = <PORT>
+API_DEFAULT_PATH = <PATH>
+API_KEY = <API_KEY>
